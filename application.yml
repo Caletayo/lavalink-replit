@@ -1,10 +1,10 @@
 server: # REST and WS server, Do not change this.
   port: 443
-  address: 0.0.0.0
+  address: {localhost}
 
 lavalink:
   server:
-    password: "maybeiwasboring" # You can change this
+    password: "Caletaponsio" # You can change this
     playerUpdateInterval: 5 # How frequently to send player updates to clients, in seconds
     koe:
       useEpoll: true
