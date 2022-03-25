@@ -1,6 +1,6 @@
 server: # REST and WS server, Do not change this.
   port: 443
-  address: {localhost}
+  address: 0.0.0.0
 
 lavalink:
   server:
